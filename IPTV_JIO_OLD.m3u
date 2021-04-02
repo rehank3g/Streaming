@@ -228,7 +228,7 @@ http://z5amshls.akamaized.net/bigmagic/playlist.m3u8
 
 
 #EXTINF:0 tvg-id="258" group-title="News" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/ndtvindia.jpg",NDTV India
-https://ndtv.pc.cdn.bitgravity.com/ndtv/live/amlst:ndtv_india_,48,128,256,382,512,.smil/chunklist_b512000.m3u8
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@5.m3u8
 #EXTINF:-1 tvg-id="173" tvg-logo="http://smedia2.intoday.in/aajtak/aajtakhd/images/aajtakHd_logo.png" group-title="News",AajTak
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/aajtakhd_5/chunklist.m3u8
 #EXTINF:-1 tvg-id="177" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="News",ABP News 
@@ -271,13 +271,13 @@ http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
 #EXTINF:0 tvg-id="383" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_NOW.png",Times NOW
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_480_av-p.m3u8
 #EXTINF:0 tvg-id="255" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png",NDTV 24x7
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@3.m3u8
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@5.m3u8
 #EXTINF:0 tvg-id="657" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png",Zee Business
 https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeebusiness
 http://cv.khushitv.xyz/channels.php?c=zeebusiness
 http://z5amshls.akamaized.net/zeebusiness/playlist.m3u8
 #EXTINF:0 tvg-id="259" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png",NDTV Profit
-https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprofitmaster.m3u8
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/masterb_480p@5.m3u8
 https://ndtv.pc.cdn.bitgravity.com/ndtv/live/amlst:ndtv_profit_,48,128,256,382,512,.smil/chunklist_b512000.m3u8
 #EXTINF:0 tvg-id="190" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz.png",CNBC Awaaz
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_4_av-p.m3u8?sd=10&rebase=on
