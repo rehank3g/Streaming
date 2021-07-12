@@ -263,6 +263,7 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_48
 #EXTINF:-1 tvg-id="173" tvg-logo="http://smedia2.intoday.in/aajtak/aajtakhd/images/aajtakHd_logo.png" group-title="News",AajTak
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/aajtakhd_5/chunklist.m3u8
 #EXTINF:0 tvg-id="1251" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_BHARATVARSH.png",TV9 Bharatvarsh
+http://localhost:8080/zee/zee51.php?c=out/v1/a4d6c601df89461d9ca297aca6579d3b
 https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
 https://hshlsnews4-i.akamaihd.net/hls/live/571523/tv9bharatvarshevent/tv9bharatvarsh_0705/tv9bharatvarsh_6/chunklist.m3u8|user-agent=KAIOS/2.0
 #EXTINF:-1 tvg-id="177" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="News",ABP News 
