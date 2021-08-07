@@ -275,8 +275,8 @@ https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
 http://localhost:8080/jio/jio.php?c=India_TV
 http://localhost:8080/zee/zee5.php?c=0-9-282
 #EXTINF:0 tvg-id="499" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png",News Nation
-https://stream-04.sg1.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZSE1kcv8nQG_1SRah225mDY)/dm/3/x7t0g3i/s/live-3.m3u8#cell=lsg1
 http://localhost:8080/jio/jio.php?c=News_Nation&q=800&e=.m3u8
+https://stream-04.sg1.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZSE1kcv8nQG_1SRah225mDY)/dm/3/x7t0g3i/s/live-3.m3u8#cell=lsg1
 #EXTINF:0 tvg-id="504" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png",Zee News
 http://localhost:8080/zee/zee51.php?c=out/v1/369dbd453ff740d49f4dc864a9f8a6b1
 http://localhost:8080/zee/zee5.php?c=0-9-zeenews
