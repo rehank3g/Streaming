@@ -311,6 +311,7 @@ https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_720p.m3u8
 http://localhost:8080/zee/zee51.php?c=out/v1/621a7207ced84ea9a658f5ded2710969
 http://localhost:8080/zee/zee5.php?c=0-9-channel_1422341819
 #EXTINF:0 tvg-id="142" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png",BBC World News
+http://localhost:8080/jio/jio.php?c=BBC_World_News&q=800&e=.m3u8
 http://localhost:8080/zee/zee51.php?c=out/v1/9f144d2623894846a14e3c74182cbcf0
 http://localhost:8080/zee/zee5.php?c=0-9-339
 #EXTINF:0 tvg-id="494" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AL_Jazeera.png",AL Jazeera
