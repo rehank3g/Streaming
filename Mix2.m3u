@@ -36,6 +36,7 @@ https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8?H
 http://localhost:8080/zee/zee51.php?c=zeesalaam
 http://localhost:8080/zee/zee5.php?c=0-9-zeesalaam
 #EXTINF:-1 tvg-id="0-9-181" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/QYOUHD.png" group-title="Entertainment",The Q India
+http://localhost:8080/jio/jio.php?c=TheQIndia&q=800&e=.m3u8
 http://localhost:8080/zee/zee51.php?c=out/v1/191365ea74eb4075bb4a3d1075242002
 http://localhost:8080/zee/zee5.php?c=0-9-181
 #EXTINF:0 tvg-id="481" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png",Epic HD
