@@ -99,8 +99,8 @@ https://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
 #EXTINF:0 tvg-id="578" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/historytv18hd.png",History TV18 HD
 http://localhost:8080/jio/jio.php?c=History_18_Hindi&q=800&e=.m3u8
 #EXTINF:0 tvg-id="571" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/tlc.png",TLC HD
-https://idvd.multitvsolution.com/idvo/tlchdhindi_540p/index.m3u8
 http://localhost:8080/jio/jio.php?c=TLC_Hindi&q=800&e=.m3u8
+https://idvd.multitvsolution.com/idvo/tlchdhindi_540p/index.m3u8
 #EXTINF:0 tvg-id="561" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/foodfood.png",Food Food
 https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
 #EXTINF:-1 tvg-id="0-9-348" tvg-logo="https://akamaividz.zee5.com/resources/0-9-348/list/386x386/1170x658_2132680991.png" group-title="Infotainment",Zee Zest HD
