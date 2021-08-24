@@ -91,8 +91,8 @@ https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
 http://localhost:8080/jio/jio.php?c=Discovery_Channel_Hindi&q=800&e=.m3u8
 https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
 #EXTINF:0 tvg-id="568" group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png",Discovery Science
-https://idvd.multitvsolution.com/idvo/discoversciencehindi_540p/index.m3u8
 http://localhost:8080/jio/jio.php?c=Discovery_Science&q=800&e=.m3u8
+https://idvd.multitvsolution.com/idvo/discoversciencehindi_540p/index.m3u8
 #EXTINF:0 tvg-id="541" group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png",Discovery Turbo
 http://localhost:8080/jio/jio.php?c=Discovery_Turbo&q=800&e=.m3u8
 https://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
