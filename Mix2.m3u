@@ -309,6 +309,7 @@ http://localhost:8080/zee/zee5.php?c=0-9-zeehindustan
 #EXTINF:0 tvg-id="498" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_news.png",India news
 https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
 #EXTINF:0 tvg-id="203" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png",DD News
+http://localhost:8080/jio/jio.php?c=DD_News&q=800&e=.m3u8
 https://m-c048-j2apps.s.llnwi.net/hls/0182.DDNews.in.m3u8
 #EXTINF:0 tvg-id="522" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Loksabha_TV.png",Loksabha TV
 https://m-c16-j2apps.s.llnwi.net/hls/0275.LoksabhaTV.in.m3u8
