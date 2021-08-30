@@ -284,6 +284,9 @@ http://localhost:8080/zee/zee51.php?c=out/v1/a4d6c601df89461d9ca297aca6579d3b
 http://localhost:8080/jio/jio.php?c=TV9_Bharatvarsh&q=800&e=.m3u8
 https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
 https://hshlsnews4-i.akamaihd.net/hls/live/571523/tv9bharatvarshevent/tv9bharatvarsh_0705/tv9bharatvarsh_6/chunklist.m3u8|user-agent=KAIOS/2.0
+#EXTINF:0 tvg-id="501" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png",News 24
+http://localhost:8080/jio/jio.php?c=News_24&q=800&e=.m3u8
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-id="177" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="News",ABP News 
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_1564.m3u8
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_720.m3u8
@@ -303,8 +306,6 @@ http://localhost:8080/zee/zee5.php?c=0-9-zeenews
 http://localhost:8080/jio/jio.php?c=Zee_SANGAM&q=800&e=.m3u8
 http://localhost:8080/zee/zee51.php?c=hindustan
 http://localhost:8080/zee/zee5.php?c=0-9-zeehindustan
-#EXTINF:0 tvg-id="501" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png",News 24
-https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 #EXTINF:0 tvg-id="498" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_news.png",India news
 https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
 #EXTINF:0 tvg-id="203" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png",DD News
