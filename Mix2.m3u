@@ -231,9 +231,9 @@ https://live.hungama.com/linear/kadak-hits/playlist.m3u8
 
 
 
-#EXTINF:0 tvg-id="tatasky_114" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/DisneyChannel.png", Disney Channel
+#EXTINF:0 tvg-id="ts_114" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/DisneyChannel.png", Disney Channel
 https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
-#EXTINF:0 tvg-id="tatasky_345" group-title="Kids" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Hungama_TV.png/revision/latest/scale-to-width-down/340?cb=20111015213235",Hungama
+#EXTINF:0 tvg-id="ts_345" group-title="Kids" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Hungama_TV.png/revision/latest/scale-to-width-down/340?cb=20111015213235",Hungama
 http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
 https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/indialpc@!2/hungamahindi/playlist.m3u8
 #EXTINF:0 tvg-id="816" group-title="Kids" tvg-logo="https://static.epg.best/in/CartoonNetwork.in.png",Cartoon Network
