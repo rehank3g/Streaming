@@ -201,6 +201,7 @@ https://livevoot-i.akamaihd.net/dash/live/828545/mtvhd/master.mpd|user-agent="pl
 http://localhost:8080/zee/zee51.php?c=out/v1/78239452a9944713bf0dfd0946a55ad5
 http://localhost:8080/zee/zee5.php?c=0-9-207
 #EXTINF:0 tvg-id="592" group-title="Music" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/Zoom.jpg",ZOOM
+https://dai.google.com/linear/hls/pb/event/JCAm25qkRXiKcK1AJMlvKQ/stream/103f089c-fd0c-4bdb-9be0-aa4990590ce6:SIN/variant/a8a69597a59b8d420a2c0986846112a3/bandwidth/1028000.m3u8
 https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_720_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-id="584" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png",Mastiii
 https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in.m3u8
@@ -231,7 +232,7 @@ https://live.hungama.com/linear/kadak-hits/playlist.m3u8
 
 
 
-#EXTINF:0 tvg-id="tatasky_114" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/DisneyChannel.png", Disney Channel
+EXTINF:0 tvg-id="tatasky_114" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/DisneyChannel.png", Disney Channel
 https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
 EXTINF:0 tvg-id="tatasky_345" group-title="Kids" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Hungama_TV.png/revision/latest/scale-to-width-down/340?cb=20111015213235",Hungama
 http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
