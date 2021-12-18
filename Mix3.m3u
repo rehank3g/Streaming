@@ -257,7 +257,7 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_48
 #EXTINF:-1 tvg-id="173" tvg-logo="http://smedia2.intoday.in/aajtak/aajtakhd/images/aajtakHd_logo.png" group-title="News",AajTak
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/aajtakhd_5/chunklist.m3u8
 #EXTINF:0 tvg-id="1251" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_BHARATVARSH.png",TV9 Bharatvarsh
-http://localhost:8080/zee/z5drm.php?c=0-9-251
+http://localhost:8080/zee/z5n.php?c=0-9-251
 http://localhost:8080/jio/jio.php?c=TV9_Bharatvarsh&q=800&e=.m3u8
 #EXTINF:0 tvg-id="501" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png",News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
@@ -269,8 +269,8 @@ https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_720.m3u8
 #EXTINF:0 tvg-id="231" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png",News 18 India
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
 #EXTINF:0 tvg-id="235" group-title="News" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/indiatv.png",India TV
-http://localhost:8080/zee/z5n.php?c=0-9-282
 http://localhost:8080/jio/jio.php?c=India_TV&q=800&e=.m3u8
+http://localhost:8080/zee/z5n.php?c=0-9-282
 #EXTINF:0 tvg-id="499" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png",News Nation
 http://localhost:8080/jio/jio.php?c=News_Nation&q=800&e=.m3u8
 https://stream-04.sg1.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZSE1kcv8nQG_1SRah225mDY)/dm/3/x7t0g3i/s/live-3.m3u8#cell=lsg1
