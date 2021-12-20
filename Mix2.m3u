@@ -10,11 +10,11 @@ http://185.180.15.14:2200/R-EX/SONY_HD_-in/index.m3u8?token=RED_TXnTiWhDbrwiyB27
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8?HjFreeTV=SABHD
 http://185.180.15.14:2200/R-EX/HINDI_SONY_SAB_HD-in/index.m3u8?token=RED_TXnTiWhDbrwiyB27xAxSCw%3D%3D%2C1619044528.1363183153
 #EXTINF:0 tvg-id="167" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
-http://localhost:8080/jio/jio.php?c=Zee_TV_HD&q=800&e=.m3u8
+http://localhost:8080/jio/jio.php?c=Zee_TV_HD&q=1200&e=.m3u8
 https://Zee2.rehank3g.repl.co?c=out/v1/ce2e6698dc7c4e5f8aa5b2fe17a133db
 http://localhost:8080/zee/zee5.php?c=0-9-zeetvhd
 #EXTINF:0 tvg-id="472" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png",And TV HD
-http://localhost:8080/jio/jio.php?c=And_TV_HD&q=800&e=.m3u8
+http://localhost:8080/jio/jio.php?c=And_TV_HD&q=1200&e=.m3u8
 https://Zee2.rehank3g.repl.co?c=out/v1/81b68c3858bf4481ad93679fd4253cf6
 http://localhost:8080/zee/zee5.php?c=0-9-tvhd_0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -115,11 +115,11 @@ http://localhost:8080/zee/zee5.php?c=0-9-348
 #EXTINF:0 tvg-id="476" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",Sony Max HD
 https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8?HjFreeTV=MAXHD
 #EXTINF:0 tvg-id="165" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
-http://localhost:8080/jio/jio.php?c=Zee_Cinema_HD&q=800&e=.m3u8
+http://localhost:8080/jio/jio.php?c=Zee_Cinema_HD&q=1200&e=.m3u8
 https://Zee2.rehank3g.repl.co?c=out/v1/1d59d08fec89495584d2b7e4059492a4
 http://localhost:8080/zee/zee5.php?c=0-9-zeecinemahd
 #EXTINF:0 tvg-id="185" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",And Pictures HD
-http://localhost:8080/jio/jio.php?c=And_Pictures_HD&q=800&e=.m3u8
+http://localhost:8080/jio/jio.php?c=And_Pictures_HD&q=1200&e=.m3u8
 https://Zee2.rehank3g.repl.co?c=out/v1/ae9617b9d66d4564831443eb2cc15caf
 http://localhost:8080/zee/zee5.php?c=0-9-tvpictureshd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
