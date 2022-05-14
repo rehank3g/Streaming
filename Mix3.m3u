@@ -195,11 +195,11 @@ http://localhost:8080/zee/z5n.php?c=0-9-133
 #EXTINF:0 tvg-id="250" group-title="Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png",Music India
 http://localhost:8080/jiotv/live.php?c=Music_India&q=1200&e=junk.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/DilSe.png" group-title="Music",Dil Se
-https://live.hungama.com/linear/dil-se/playlist_5.m3u8
+https://live.hungama.com/linear/dil-se/playlist_4.m3u8
 #EXTINF:0 group-title="Music" tvg-logo="https://i.postimg.cc/3xSS9fw9/Pop-Patakha-Hungama.png",Pop पटाखा
-https://live.hungama.com/linear/pop-pataka/playlist_5.m3u8
+https://live.hungama.com/linear/pop-pataka/playlist_4.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/NMw1xRRp/Kadak-Hits.png" group-title="Music",Kadak Hits
-https://live.hungama.com/linear/kadak-hits/playlist_5.m3u8
+https://live.hungama.com/linear/kadak-hits/playlist_4.m3u8
 
 
 
