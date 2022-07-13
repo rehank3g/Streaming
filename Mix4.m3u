@@ -287,9 +287,9 @@ http://localhost:8080/jio/jio.php?c=India_news&q=1200&e=.m3u8
 http://localhost:8080/jio/jio.php?c=DD_News&q=1200&e=.m3u8
 https://m-c048-j2apps.s.llnwi.net/hls/0182.DDNews.in.m3u8
 #EXTINF:0 tvg-id="522" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Loksabha_TV.png",Sansad TV
-https://m-c16-j2apps.s.llnwi.net/hls/0275.LoksabhaTV.in.m3u8
+https://hls.media.nic.in/live/lstv/index.m3u8
 EXTINF:0 tvg-id="520" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajyasabha.png",DD Rajyasabha
-https://m-c16-j2apps.s.llnwi.net/hls/0285.RSTV.in.m3u8
+https://hls.media.nic.in/live/rstv/index.m3u8
 #EXTINF:0 tvg-id="858" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png",R. Bharat
 https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/chunklist_5.m3u8
 #EXTINF:0 tvg-id="858" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png",Republic TV
