@@ -287,7 +287,7 @@ https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/chunklist_5.m3
 #EXTINF:0 tvg-id="858" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png",Republic TV
 https://weblive.republicworld.com/httppush/ottr_republic_english/chunklist_5.m3u8
 #EXTINF:0 tvg-id="383" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_NOW.png",Times NOW
-https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_480_av-p.m3u8
+http://localhost:8080/jio/jio.php?c=Times_NOW&q=1200&e=junk.m3u8
 #EXTINF:0 tvg-id="255" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@5.m3u8
 #EXTINF:0 tvg-id="259" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png",NDTV Profit
@@ -296,7 +296,7 @@ https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master
 http://localhost:8080/zee/z5n.php?c=0-9-zeebusiness
 http://localhost:8080/jio/jio.php?c=Zee_Business&q=1200&e=junk.m3u8
 #EXTINF:0 tvg-id="190" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz.png",CNBC Awaaz
-https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_4_av-p.m3u8?sd=10&rebase=on
+http://localhost:8080/jio/jio.php?c=CNBC_Awaaz&q=1200&e=junk.m3u8
 #EXTINF:0 tvg-id="493" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_Today.png",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
 http://localhost:8080/zee/z5n.php?c=0-9-channel_1422341819
