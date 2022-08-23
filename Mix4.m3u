@@ -84,8 +84,8 @@ http://localhost:8080/jiotv/api.php?c=0-9-348
 #EXTINF:0 tvg-id="476" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",Sony Max HD
 https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 #EXTINF:0 tvg-id="165" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
-http://localhost:8080/jiotv/api.php?c=0-9-zeecinemahd
 http://localhost:8080/jiotv/live.php?c=Zee_Cinema_HD&q=1200&e=junk.m3u8
+http://localhost:8080/jiotv/api.php?c=0-9-zeecinemahd
 #EXTINF:0 tvg-id="185" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",And Pictures HD
 http://localhost:8080/jiotv/live.php?c=And_Pictures_HD&q=1200&e=junk.m3u8
 http://localhost:8080/jiotv/api.php?c=0-9-tvpictureshd
@@ -109,14 +109,14 @@ http://localhost:8080/jiotv/live.php?c=Sony_MAX2&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="0-9-209" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/&xplore.png" group-title="Movies",&xplor HD
 http://localhost:8080/jiotv/api.php?c=0-9-209
 #EXTINF:0 tvg-id="488" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png",Zee Action
-http://localhost:8080/jiotv/api.php?c=0-9-zeeaction
 http://localhost:8080/jiotv/live.php?c=Zee_Action&q=1200&e=junk.m3u8
+http://localhost:8080/jiotv/api.php?c=0-9-zeeaction
 #EXTINF:0 tvg-id="415" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png",Zee Anmol Cinema
 http://localhost:8080/jiotv/live.php?c=Zee_Anmol_Cinema&q=1200&e=junk.m3u8
 http://localhost:8080/jiotv/api.php?c=0-9-zeeanmolcinema
 #EXTINF:0 tvg-id="487" group-title="Movies" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/ZeeBollywood.png",Zee Bollywood
-http://localhost:8080/jiotv/api.php?c=0-9-zeeclassic
 http://localhost:8080/jiotv/live.php?c=Zee_Classic&q=1200&e=junk.m3u8
+http://localhost:8080/jiotv/api.php?c=0-9-zeeclassic
 #EXTINF:-1 tvg-id="0-9-176" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/zeeclassic.png" group-title="Movies",Zee Classic
 http://localhost:8080/jiotv/api.php?c=0-9-176
 EXTINF:0 tvg-id="1104" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1212_1.png" group-title="Movies",Star Movies HD
@@ -283,7 +283,6 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 http://localhost:8080/jiotv/api.php?c=0-9-channel_1422341819
 #EXTINF:0 tvg-id="142" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png",BBC World News
 http://localhost:8080/jiotv/live.php?c=BBC_World_News&q=1200&e=junk.m3u8
-https://Zee2.rehank3g.repl.co?c=out/v1/9f144d2623894846a14e3c74182cbcf0
 http://localhost:8080/jiotv/api.php?c=0-9-339
 #EXTINF:0 tvg-id="494" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AL_Jazeera.png",AL Jazeera
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
