@@ -141,7 +141,7 @@ EXTINF:0 tvg-id="0-9-channel_2105335046" group-title="Movies" tvg-logo="http://j
 
 #EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/MKOIlzdt.png" group-title="Movies", &Flix HD
 http://localhost:8080/jiotv/api.php?c=0-9-channel_2105335046
-#EXTINF:-1 tvg-id="0-9-priv\u00e9hd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-priv%C3%A9hd/cover/170x120/privehd386x386white.png" group-title="Movies", &Privéhd HD
+#EXTINF:-1 tvg-id="0-9-privéhd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-priv%C3%A9hd/cover/170x120/privehd386x386white.png" group-title="Movies", &Privéhd HD
 http://localhost:8080/jiotv/api.php?c=0-9-priv\u00e9hd
 
 
