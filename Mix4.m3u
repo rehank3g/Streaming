@@ -313,35 +313,57 @@ https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3
 https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #EXTINF:0 tvg-id="155" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",Sony Six HD
 https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
-#EXTINF:0 tvg-id="1425" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/1sports.png",1Sports
-http://localhost:8080/jiotv/live.php?c=1Sports&q=1200&e=junk.m3u8
-#EXTINF:0 tvg-id="875" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png",Eurosport HD
-http://localhost:8080/jiotv/live.php?c=Dsports_HD&q=1200&e=junk.m3u8
-#EXTINF:0 tvg-id="204" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png",DD Sports
-http://localhost:8080/jiotv/live.php?c=DD_Sports&q=1200&e=junk.m3u8
-#EXTINF:0 tvg-id="430" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Jio Cricket HD
-http://localhost:8080/jiotv/live.php?c=Jio_Cricket&q=1200&e=junk.m3u8
-EXTINF:0 tvg-id="1160" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_1_HD.png",Jio Cricket 1 HD
-http://localhost:8080/jiotv/live.php?c=Jio_Cricket_1_HD&q=1200&e=junk.m3u8
-EXTINF:0 tvg-id="1161" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_2_HD.png",Jio Cricket 2 HD
-http://localhost:8080/jiotv/live.php?c=Jio_Cricket_2_HD&q=1200&e=junk.m3u8
-EXTINF:0 tvg-id="1166" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_3.png",Jio Cricket 3 HD
-http://localhost:8080/jiotv/live.php?c=Jio_Cricket_3_HD&q=1200&e=junk.m3u8
-EXTINF:0 tvg-id="1272" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_4_HD.png",Jio Cricket 4 HD
-http://localhost:8080/jiotv/live.php?c=Jio_Cricket_4_HD&q=1200&e=junk.m3u8
-EXTINF:0 tvg-id="1709" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_5_HD.png",Jio Cricket 5 HD
-http://localhost:8080/jiotv/live.php?c=Jio_Cricket_5_HD&q=1200&e=junk.m3u8
-EXTINF:0 tvg-id="1711" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_6_HD.png",Jio Cricket 6 HD
-http://localhost:8080/jiotv/live.php?c=Jio_Cricket_6_HD&q=1200&e=junk.m3u8
-EXTINF:0 tvg-id="438" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Hindi.png",Jio Cricket Hindi
-http://localhost:8080/jiotv/live.php?c=Jio_Cricket_Hindi&q=1200&e=junk.m3u8
-#EXTINF:0 tvg-id="1156" tvg-name="Jio Football HD" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football.png",Jio Football HD
-http://localhost:8080/jiotv/live.php?c=Jio_Football&q=1200&e=junk.m3u8
-#EXTINF:0 tvg-id="1165" tvg-name="Jio Football 1 HD" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_1.png",Jio Football 1 HD
-http://localhost:8080/jiotv/live.php?c=Jio_Football_1&q=1200&e=junk.m3u8
-#EXTINF:0 tvg-id="1167" tvg-name="Jio Football 2 HD" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_2.png",Jio Football 2 HD
-http://localhost:8080/jiotv/live.php?c=Jio_Football_2&q=1200&e=junk.m3u8
-#EXTINF:0 tvg-id="1168" tvg-name="Jio Football 3 HD" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_3.png",Jio Football 3 HD
-http://localhost:8080/jiotv/live.php?c=Jio_Football_3&q=1200&e=junk.m3u8
-#EXTINF:0 tvg-id="1169" tvg-name="Jio Football 4 HD" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_4.png",Jio Football 4 HD
-http://localhost:8080/jiotv/live.php?c=Jio_Football_4&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="438" group-title="Sports" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Hindi.png",Jio Cricket Hindi HD
+http://127.0.0.1:8080/jiotv/live.php?c=Jio_Cricket_Hindi&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1918" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_English.png",Jio Cricket English HD
+http://127.0.0.1:8080/jiotv/live.php?c=Jio_Cricket_English&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="430" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Jio Cricket HD
+http://127.0.0.1:8080/jiotv/live.php?c=Jio_Cricket&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1160" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_1_HD.png",Jio Cricket 1 HD
+http://127.0.0.1:8080/jiotv/live.php?c=Jio_Cricket_1_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1161" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_2_HD.png",Jio Cricket 2 HD
+http://127.0.0.1:8080/jiotv/live.php?c=Jio_Cricket_2_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1166" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_3.png",Jio Cricket 3 HD
+http://127.0.0.1:8080/jiotv/live.php?c=Jio_Cricket_3&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1272" group-title="Sports" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_4_HD.png",Jio Cricket 4 HD
+http://127.0.0.1:8080/jiotv/live.php?c=Jio_Cricket_4_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="889" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports.png",Jio Sports HD
+http://127.0.0.1:8080/jiotv/live.php?c=Jio_Sports&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1889" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports_1_HD.png",Jio Sports 1 HD
+http://127.0.0.1:8080/jiotv/live.php?c=Jio_Sports_1_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1890" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports_2_HD.png",Jio Sports 2 HD
+http://127.0.0.1:8080/jiotv/live.php?c=Jio_Sports_2_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1970" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports_3_HD.png",Jio Sports 3 HD
+http://127.0.0.1:8080/jiotv/live.php?c=Jio_Sports_3_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1971" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports_4_HD.png",Jio Sports 4 HD
+http://127.0.0.1:8080/jiotv/live.php?c=Jio_Sports_4_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1156" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football.png",Jio Football HD
+http://127.0.0.1:8080/jiotv/live.php?c=Jio_Football&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1165" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_1.png",Jio Football 1 HD
+http://127.0.0.1:8080/jiotv/live.php?c=Jio_Football_1&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1167" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_2.png",Jio Football 2 HD
+http://127.0.0.1:8080/jiotv/live.php?c=Jio_Football_2&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1168" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_3.png",Jio Football 3 HD
+http://127.0.0.1:8080/jiotv/live.php?c=Jio_Football_3&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1169" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_4.png",Jio Football 4 HD
+http://127.0.0.1:8080/jiotv/live.php?c=Jio_Football_4&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1813" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_5.png",Jio Football 5 HD
+http://127.0.0.1:8080/jiotv/live.php?c=Jio_Football_5&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1814" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_6.png",Jio Football 6 HD
+http://127.0.0.1:8080/jiotv/live.php?c=Jio_Football_6&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1823" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_7.png",Jio Football 7 HD
+http://127.0.0.1:8080/jiotv/live.php?c=Jio_Football_7&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1824" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_8.png",Jio Football 8 HD
+http://127.0.0.1:8080/jiotv/live.php?c=Jio_Football_8&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1234" group-title="Sports" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Hindi_HD.png",Jio Football Hindi HD
+http://127.0.0.1:8080/jiotv/live.php?c=Jio_Football_Hindi_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="875" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png",Eurosport HD
+http://127.0.0.1:8080/jiotv/live.php?c=Dsports_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="204" group-title="Sports" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png",DD Sports
+http://127.0.0.1:8080/jiotv/live.php?c=DD_Sports&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1425" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/1Sports.png",1Sports
+http://127.0.0.1:8080/jiotv/live.php?c=1Sports&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1984" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png",Sports18 1 HD
+http://127.0.0.1:8080/jiotv/live.php?c=Sports18_1_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1998" group-title="Sports" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png",Sports18 Khel
+http://127.0.0.1:8080/jiotv/live.php?c=Sports18_Khel&q=1200&e=junk.m3u8
