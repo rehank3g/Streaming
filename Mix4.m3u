@@ -56,6 +56,8 @@ EXTINF:0 tvg-id="tatasky_367" group-title="Infotainment" tvg-logo="https://raw.g
 http://185.180.15.14:2200/R-EX/HINDI_FOX_LIFE_HD-in/index.m3u8?token=RED_TXnTiWhDbrwiyB27xAxSCw%3D%3D%2C1619044528.1363183153
 #EXTINF:0 tvg-id="562" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/travelxphd.jpg",Travel XP HD
 http://localhost:8080/jiotv/live.php?c=Travel_XP&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="1596" group-title="Lifestyle" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MY_ZEN_HD.png",MY ZEN HD
+http://127.0.0.1:8080/jiotv/live.php?c=MY_ZEN_HD&q=1200&e=junk.m3u8
 #EXTINF:0 tvg-id="821" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/bbcearth.png",Sony BBC Earth HD
 http://localhost:8080/jiotv/live.php?c=Sony_BBC_Earth_HD&q=1200&e=junk.m3u8
 #EXTINF:0 tvg-id="566" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/animalplanethd.png",Animal Planet
