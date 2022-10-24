@@ -231,8 +231,11 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_48
 #EXTINF:-1 tvg-id="173" tvg-logo="http://smedia2.intoday.in/aajtak/aajtakhd/images/aajtakHd_logo.png" group-title="News",AajTak
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8
 #EXTINF:0 tvg-id="1251" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_BHARATVARSH.png",TV9 Bharatvarsh
+https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live_720p/chunks.m3u8
 http://localhost:8080/jiotv/live.php?c=TV9_Bharatvarsh&q=1200&e=junk.m3u8
 http://localhost:8080/jiotv/api.php?c=0-9-251
+#EXTINF:-1 tvg-id="1431" group-title="News" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Hindi.png",BBC News Hindi
+http://127.0.0.1:8080/jiotv/live.php?c=BBC_Hindi&q=1200&e=junk.m3u8
 #EXTINF:0 tvg-id="501" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png",News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live_720p/chunks.m3u8
 http://localhost:8080/jiotv/live.php?c=News_24&q=1200&e=junk.m3u8
