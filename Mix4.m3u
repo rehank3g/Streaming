@@ -231,7 +231,6 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_48
 #EXTINF:-1 tvg-id="173" tvg-logo="http://smedia2.intoday.in/aajtak/aajtakhd/images/aajtakHd_logo.png" group-title="News",AajTak
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8
 #EXTINF:0 tvg-id="1251" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_BHARATVARSH.png",TV9 Bharatvarsh
-https://zee5livemedia.zee5.com/v1/manifest/5c95b915ce5f89df583d7097ff7e9fdb77a6461e/LinearStream-SSAI-POC/2710ae74-e933-42a6-981d-40c7c4481118/5.m3u8?hdnts=st=1666587329~exp=1666590329~acl=/out/v1/a4d6c601df89461d9ca297aca6579d3b/index.m3u8*~hmac=168df2b44743600f88ce4143e46a2ecfb39e03d608a199c77c7ef388ff0799e8
 https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live_720p/chunks.m3u8
 http://localhost:8080/jiotv/live.php?c=TV9_Bharatvarsh&q=1200&e=junk.m3u8
 http://localhost:8080/jiotv/api.php?c=0-9-251
