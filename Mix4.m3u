@@ -284,7 +284,7 @@ https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3
 https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
 #EXTINF:-1 tvg-id="892" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/ten3.png",Sports 3 HD
 https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
-#EXTINF: -1 tvg-id="892" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/ten4.png" group-title="Sports",Sports 4 HD
+#EXTINF: -1 tvg-id="892" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/ten4.png",Sports 4 HD
 https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #EXTINF:-1 tvg-id="155" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/ten5.png",Sports 5 HD
 https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
