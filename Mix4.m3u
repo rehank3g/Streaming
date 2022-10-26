@@ -265,7 +265,7 @@ https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 -----------------------------------------Sports-----------------------------------------
 
 
-#EXTINF:-1 tvg-id="tatasky_78" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/willow.jpg",Willow HD
+EXTINF:-1 tvg-id="tatasky_78" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/willow.jpg",Willow HD
 https://11live02.akamaized.net/FTX2_WILLOW/playlist.m3u8
 #EXTINF:-1 tvg-id="tatasky_78" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSports1.png",Star Sports 1 HD
 https://spidytv.herokuapp.com/app/master.php?id=48105&e=.m3u8
@@ -277,15 +277,15 @@ https://spidytv.herokuapp.com/app/master.php?id=51218&e=.m3u8
 https://spidytv.herokuapp.com/app/master.php?id=48110&e=.m3u
 #EXTINF:-1 tvg-id="tatasky_463" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSportsSelect2.png",Star Sports Select 2 HD
 https://spidytv.herokuapp.com/app/master.php?id=48111&e=.m3u8
-#EXTINF:-1 tvg-id="162" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",Ten 1 HD
+#EXTINF:-1 tvg-id="162" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",Sports 1 HD
 https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
-#EXTINF:-1 tvg-id="891" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png",Ten 2 HD
+#EXTINF:-1 tvg-id="891" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png",Sports 2 HD
 https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
-#EXTINF:-1 tvg-id="892" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",Ten 3 HD
+#EXTINF:-1 tvg-id="892" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",Sports 3 HD
 https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
-#EXTINF: -1 tvg-id="892" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4HD_Masthead_Logo.png" group-title="Sports",Ten 4 HD
+#EXTINF: -1 tvg-id="892" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4HD_Masthead_Logo.png" group-title="Sports",Sports 4 HD
 https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
-#EXTINF:-1 tvg-id="155" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",Sony Six HD
+#EXTINF:-1 tvg-id="155" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",Sports 5 HD
 https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 #EXTINF:-1 tvg-id="438" group-title="Sports" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Hindi.png",Jio Cricket Hindi HD
 http://127.0.0.1:8080/jiotv/live.php?c=Jio_Cricket_Hindi&q=1200&e=junk.m3u8
