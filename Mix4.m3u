@@ -72,7 +72,7 @@ http://127.0.0.1:8080/jiotv/live.php?c=History_18_Hindi&q=1200&e=junk.m3u8
 http://127.0.0.1:8080/jiotv/live.php?c=TLC_Hindi&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="561" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/foodfood.png",Food Food
 http://127.0.0.1:8080/jiotv/live.php?c=Food_Food&q=1200&e=junk.m3u8
-EXTINF:-1 tvg-id="0-9-348" tvg-logo="https://akamaividz.zee5.com/resources/0-9-348/list/386x386/1170x658_2132680991.png" group-title="Infotainment",Zee Zest HD
+#EXTINF:-1 tvg-id="0-9-348" tvg-logo="https://akamaividz.zee5.com/resources/0-9-348/list/386x386/1170x658_2132680991.png" group-title="Infotainment",Zee Zest HD
 http://127.0.0.1:8080/jiotv/api.php?c=0-9-348
 
 
