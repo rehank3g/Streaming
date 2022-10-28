@@ -269,11 +269,11 @@ https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 EXTINF:-1 tvg-id="tatasky_78" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/willow.jpg",Willow HD
 https://11live02.akamaized.net/FTX2_WILLOW/playlist.m3u8
 #EXTINF:-1 tvg-id="tatasky_78" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSports1.png",Star Sports 1 HD
-https://spidytv.herokuapp.com/app/master.php?id=48105&e=.m3u8
+http://iamsom69.herokuapp.com/star7/jointg_iamsom5.php?id=48105&e=.m3u8
 #EXTINF:-1 tvg-id="tatasky_235" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSports2.png",Star Sports 2 HD
-https://spidytv.herokuapp.com/app/master.php?id=48103&e=.m3u8
+http://iamsom69.herokuapp.com/star7/jointg_iamsom5.php?id=48103&e=.m3u8
 #EXTINF:-1 tvg-id="tatasky_24" tvg-name="Star Sports Hindi 1" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSportsHindi.png",Star Sports 1 HD Hindi
-https://spidytv.herokuapp.com/app/master.php?id=51218&e=.m3u8
+http://iamsom69.herokuapp.com/star7/jointg_iamsom5.php?id=51218&e=.m3u8
 #EXTINF:-1 tvg-id="tatasky_246" tvg-name="Star Sports Select HD1" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSportsSelect1.png",Star Sports Select 1 HD
 https://spidytv.herokuapp.com/app/master.php?id=48110&e=.m3u
 #EXTINF:-1 tvg-id="tatasky_463" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/StarSportsSelect2.png",Star Sports Select 2 HD
