@@ -490,7 +490,7 @@ https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/li
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="501" group-title="News1" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png",News 24
-https://vidcdn.vidgyor.com/News24-origin/liveabr/News24-origin/live_720p/chunks.m3u8
+https://bb4ece8d78fb4e85b0713ee8a3f73e7b.mediatailor.ap-south-1.amazonaws.com/v1/manifest/8c46099fe45335f63ce7178b3eb4f427ab1d2158/news24-prod-pal/f0b9ac8b-6bd7-4d3d-96e1-083b2926c985/2.m3u8
 
 #EXTINF:-1 tvg-id="177" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="News1",ABP News
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
