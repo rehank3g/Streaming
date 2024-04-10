@@ -1,5 +1,12 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 
+
+#EXTINF:-1 tvg-id="144" tvg-name="Colors HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
+http://127.0.0.1:8001/king/Jio/app/live.php?id=144&e=.m3u8
+#EXTINF:-1 tvg-id="701" tvg-name="Dangal" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png",Dangal
+http://127.0.0.1:8001/king/Jio/app/live.php?id=701&e=.m3u8
+#EXTINF:-1 tvg-id="167" tvg-name="Zee TV HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
+http://127.0.0.1:8001/king/Jio/app/live.php?id=167&e=.m3u8
 #EXTINF:-1 tvg-id="1251" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_BHARATVARSH.png",TV9 Bharatvarsh
 https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="1431" group-title="News" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Hindi.png",BBC News Hindi
@@ -10,12 +17,6 @@ https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live_720p/chunks.
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
 #EXTINF:-1 tvg-id="173" tvg-name="Aaj Tak" group-title="News" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
 http://127.0.0.1:8001/king/Jio/app/live.php?id=173&e=.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="Colors HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
-http://127.0.0.1:8001/king/Jio/app/live.php?id=144&e=.m3u8
-#EXTINF:-1 tvg-id="701" tvg-name="Dangal" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png",Dangal
-http://127.0.0.1:8001/king/Jio/app/live.php?id=701&e=.m3u8
-#EXTINF:-1 tvg-id="167" tvg-name="Zee TV HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
-http://127.0.0.1:8001/king/Jio/app/live.php?id=167&e=.m3u8
 #EXTINF:-1 tvg-id="235" tvg-name="India TV" group-title="News" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png",India TV
 http://127.0.0.1:8001/king/Jio/app/live.php?id=235&e=.m3u8
 #EXTINF:-1 tvg-id="231" tvg-name="News 18 India" group-title="News" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png",News 18 India
