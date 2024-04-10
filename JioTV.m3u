@@ -489,10 +489,10 @@ https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/li
 #EXTINF:-1 tvg-id="1251" group-title="News1" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_BHARATVARSH.png",TV9 Bharatvarsh
 https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="501" group-title="News1" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News1_24.png",News1 24
+#EXTINF:-1 tvg-id="501" group-title="News1" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png",News 24
 https://vidcdn.vidgyor.com/News124-origin/liveabr/News124-origin/live_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="177" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News1_India.png" group-title="News1",ABP News1 
+#EXTINF:-1 tvg-id="177" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="News1",ABP News
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
 
 #EXTINF:-1 tvg-id="522" group-title="News1" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Loksabha_TV.png",Sansad TV
