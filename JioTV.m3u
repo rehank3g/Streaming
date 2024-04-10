@@ -58,6 +58,7 @@ http://127.0.0.1:8001/king/Jio/app/live.php?id=481&e=.m3u8
 http://127.0.0.1:8001/king/Jio/app/live.php?id=485&e=.m3u8
 
 #EXTINF:-1 tvg-id="527" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ID.png",Investigation Discovery
+http://127.0.0.1:8001/king/discovery/Investigation_Discovery.m3u8
 http://127.0.0.1:8001/king/Jio/app/live.php?id=527&e=.m3u8
 
 #EXTINF:-1 tvg-id="528" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_India.png",DD India
@@ -168,9 +169,11 @@ https://tsneh-tp.vercel.app/ts/460.mpd
 https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 
 #EXTINF:-1 tvg-id="286" group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png",Animal Planet HD World
+http://127.0.0.1:8001/king/discovery/Animal_Planet.m3u8
 http://127.0.0.1:8001/king/Jio/app/live.php?id=286&e=.m3u8
 
 #EXTINF:-1 tvg-id="463" group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png",Discovery HD World
+http://127.0.0.1:8001/king/discovery/Discovery_Channel.m3u8
 http://127.0.0.1:8001/king/Jio/app/live.php?id=463&e=.m3u8
 
 #EXTINF:-1 tvg-id="566" group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png",Animal Planet Hindi
@@ -180,7 +183,12 @@ http://127.0.0.1:8001/king/Jio/app/live.php?id=566&e=.m3u8
 http://127.0.0.1:8001/king/Jio/app/live.php?id=567&e=.m3u8
 
 #EXTINF:-1 tvg-id="568" group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png",Discovery Science
+http://127.0.0.1:8001/king/discovery/Discovery_Science.m3u8
 http://127.0.0.1:8001/king/Jio/app/live.php?id=568&e=.m3u8
+
+#EXTINF:-1 tvg-id="541" group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png",Discovery Turbo
+http://127.0.0.1:8001/king/discovery/Discovery_Turbo.m3u8
+http://127.0.0.1:8001/king/Jio/app/live.php?id=541&e=.m3u8
 
 #EXTINF:-1 tvg-id="575" group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png",Discovery Channel Hindi
 http://127.0.0.1:8001/king/Jio/app/live.php?id=575&e=.m3u8
@@ -195,6 +203,7 @@ http://127.0.0.1:8001/king/Jio/app/live.php?id=146&e=.m3u8
 http://127.0.0.1:8001/king/Jio/app/live.php?id=164&e=.m3u8
 
 #EXTINF:-1 tvg-id="479" group-title="Lifestyle" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_HD_World.png",TLC HD
+http://127.0.0.1:8001/king/discovery/TLC.m3u8
 http://127.0.0.1:8001/king/Jio/app/live.php?id=479&e=.m3u8
 
 #EXTINF:-1 tvg-id="562" group-title="Lifestyle" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png",Travelxp HD Hindi
@@ -220,9 +229,6 @@ http://127.0.0.1:8001/king/Jio/app/live.php?id=1955&e=.m3u8
 
 #EXTINF:-1 tvg-id="2757" group-title="Lifestyle" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Zest_HD.png",Zee Zest HD
 http://127.0.0.1:8001/king/Jio/app/live.php?id=2757&e=.m3u8
-
-#EXTINF:-1 tvg-id="541" group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png",Discovery Turbo
-http://127.0.0.1:8001/king/Jio/app/live.php?id=541&e=.m3u8
 
 #EXTINF:-1 tvg-id="242" group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_English.png",Discovery
 http://127.0.0.1:8001/king/Jio/app/live.php?id=242&e=.m3u8
