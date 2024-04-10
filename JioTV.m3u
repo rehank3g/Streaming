@@ -7,15 +7,15 @@ http://127.0.0.1:8001/king/Jio/app/live.php?id=144&e=.m3u8
 http://127.0.0.1:8001/king/Jio/app/live.php?id=701&e=.m3u8
 #EXTINF:-1 tvg-id="167" tvg-name="Zee TV HD" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
 http://127.0.0.1:8001/king/Jio/app/live.php?id=167&e=.m3u8
-#EXTINF:-1 tvg-id="1251" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_BHARATVARSH.png",TV9 Bharatvarsh
+#EXTINF:-1 tvg-id="1251" group-title="News" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_BHARATVARSH.png",TV9 Bharatvarsh
 https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="1431" group-title="News" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Hindi.png",BBC News Hindi
 http://127.0.0.1:8080/jiotv/live.php?c=BBC_Hindi&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="501" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png",News 24
+#EXTINF:-1 tvg-id="501" group-title="News" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png",News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="177" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="News",ABP News 
+#EXTINF:-1 tvg-id="177" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="News",ABP News 
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
-#EXTINF:-1 tvg-id="173" tvg-name="Aaj Tak" group-title="News" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
+#EXTINF:-1 tvg-id="173" tvg-language="Hindi" tvg-name="Aaj Tak" group-title="News" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
 http://127.0.0.1:8001/king/Jio/app/live.php?id=173&e=.m3u8
 #EXTINF:-1 tvg-id="235" tvg-name="India TV" group-title="News" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png",India TV
 http://127.0.0.1:8001/king/Jio/app/live.php?id=235&e=.m3u8
