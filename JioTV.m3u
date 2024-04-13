@@ -2,16 +2,6 @@
 
 --------------------------------------------Entertainment--------------------------------------------
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8001/king/TataplaySimplePhp/key1.php?id=8
-#EXTINF:-1 tvg-id="8" tvg-name="STAR Plus HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="Entertainment",STAR Plus HD
-https://beta-ts-sable.vercel.app/index.mpd?id=8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8001/king/TataplaySimplePhp/key1.php?id=244
-#EXTINF:-1 tvg-id="244" tvg-name="Star Bharat HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="Entertainment",Star Bharat HD
-https://beta-ts-sable.vercel.app/index.mpd?id=244
-
 #EXTINF:-1 tvg-id="167" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
 http://127.0.0.1:8001/king/Jio/app/live.php?id=167&e=.m3u8
 
@@ -150,21 +140,6 @@ http://127.0.0.1:8001/king/Jio/app/live.php?id=2258&e=.m3u8
 
 --------------------------------------------Infotainment--------------------------------------------
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8001/king/TataplaySimplePhp/key1.php?id=605
-#EXTINF:-1 tvg-id="605" tvg-name="National Geographic HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png" group-title="Infotainment",National Geographic HD Hindi
-https://beta-ts-sable.vercel.app/index.mpd?id=605
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8001/king/TataplaySimplePhp/key1.php?id=413
-#EXTINF:-1 tvg-id="413" tvg-name="Nat Geo Wild HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11631-j9k0ndjc-v1/imageContent-11631-j9k0ndjc-m1.png" group-title="Infotainment",Nat Geo Wild HD Hindi
-https://beta-ts-sable.vercel.app/index.mpd?id=413
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8001/king/TataplaySimplePhp/key1.php?id=460
-#EXTINF:-1 tvg-id="460" tvg-name="SONY BBC Earth HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png" group-title="Infotainment",SONY BBC Earth HD Hindi
-https://beta-ts-sable.vercel.app/index.mpd?id=460
-
 #EXTINF: -1 tvg-id="852" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Infotainment",Sony BBC Earth HD
 https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 
@@ -241,16 +216,6 @@ http://127.0.0.1:8001/king/Jio/app/live.php?id=2437&e=.m3u8
 
 --------------------------------------------Kids--------------------------------------------
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8001/king/TataplaySimplePhp/key1.php?id=114
-#EXTINF:-1 tvg-id="114" tvg-name="Disney" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Kids",Disney
-https://beta-ts-sable.vercel.app/index.mpd?id=114
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8001/king/TataplaySimplePhp/key1.php?id=587
-#EXTINF:-1 tvg-id="587" tvg-name="Super Hungama" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png" group-title="Kids",Super Hungama
-https://beta-ts-sable.vercel.app/index.mpd?id=587
-
 #EXTINF:-1 tvg-id="544" group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png",Nick Junior
 http://127.0.0.1:8001/king/Jio/app/live.php?id=544&e=.m3u8
 
@@ -297,11 +262,6 @@ http://127.0.0.1:8001/king/Jio/app/live.php?id=1920&e=.m3u8
 http://127.0.0.1:8001/king/Jio/app/live.php?id=2774&e=.m3u8
 
 --------------------------------------------Movies--------------------------------------------
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8001/king/TataplaySimplePhp/key1.php?id=245
-#EXTINF:-1 tvg-id="245" tvg-name="STAR GOLD HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png" group-title="Movies",STAR GOLD HD
-https://beta-ts-sable.vercel.app/index.mpd?id=245
 
 #EXTINF:-1 tvg-id="165" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
 http://127.0.0.1:8001/king/Jio/app/live.php?id=165&e=.m3u8
@@ -542,31 +502,6 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 
 --------------------------------------------Sports--------------------------------------------
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8001/king/TataplaySimplePhp/key1.php?id=78
-#EXTINF:-1 tvg-id="78" tvg-name="Star Sports 1 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="Sports",Star Sports 1 HD
-https://beta-ts-sable.vercel.app/index.mpd?id=78
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8001/king/TataplaySimplePhp/key1.php?id=235
-#EXTINF:-1 tvg-id="235" tvg-name="Star Sports 2 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="Sports",Star Sports 2 HD
-https://beta-ts-sable.vercel.app/index.mpd?id=235
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8001/king/TataplaySimplePhp/key1.php?id=24
-#EXTINF:-1 tvg-id="24" tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="Sports",Star Sports 1 Hindi HD
-https://beta-ts-sable.vercel.app/index.mpd?id=24
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8001/king/TataplaySimplePhp/key1.php?id=246
-#EXTINF:-1 tvg-id="246" tvg-name="Star Sports Select 1 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="Sports",Star Sports Select 1 HD
-https://beta-ts-sable.vercel.app/index.mpd?id=246
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://127.0.0.1:8001/king/TataplaySimplePhp/key1.php?id=463
-#EXTINF:-1 tvg-id="463" tvg-name="Star Sports Select 2 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Sports",Star Sports Select 2 HD
-https://beta-ts-sable.vercel.app/index.mpd?id=463
 
 #EXTINF:-1 tvg-id="162" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony TEN 1 HD
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
