@@ -154,8 +154,11 @@ http://127.0.0.1:5001/live/high/463.m3u8
 #EXTINF:-1 tvg-id="566" group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png",Animal Planet Hindi
 http://127.0.0.1:5001/live/high/566.m3u8
 
-#EXTINF:-1 tvg-id="567" group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_English.png",Animal Planet English
-http://127.0.0.1:5001/live/high/567.m3u8
+#EXTINF:-1 tvg-id="2437" group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wild_Earth.png",Wild Earth
+http://127.0.0.1:5001/live/high/2437.m3u8
+
+#EXTINF:-1 tvg-id="578" group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png",History TV18 HD
+http://127.0.0.1:5001/live/high/578.m3u8
 
 #EXTINF:-1 tvg-id="568" group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png",Discovery Science
 http://127.0.0.1:8001/king/discovery/Discovery_Science.m3u8
@@ -165,27 +168,12 @@ http://127.0.0.1:5001/live/high/568.m3u8
 http://127.0.0.1:8001/king/discovery/Discovery_Turbo.m3u8
 http://127.0.0.1:5001/live/high/541.m3u8
 
-#EXTINF:-1 tvg-id="575" group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png",Discovery Channel Hindi
-http://127.0.0.1:5001/live/high/575.m3u8
-
-#EXTINF:-1 tvg-id="578" group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png",History TV18 HD Hindi
-http://127.0.0.1:5001/live/high/578.m3u8
-
-#EXTINF:-1 tvg-id="146" group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png",History TV18 HD
-http://127.0.0.1:5001/live/high/146.m3u8
-
-#EXTINF:-1 tvg-id="164" group-title="Lifestyle" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png",Travelxp HD
-http://127.0.0.1:5001/live/high/164.m3u8
+#EXTINF:-1 tvg-id="562" group-title="Lifestyle" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png",Travelxp HD
+http://127.0.0.1:5001/live/high/562.m3u8
 
 #EXTINF:-1 tvg-id="479" group-title="Lifestyle" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_HD_World.png",TLC HD
 http://127.0.0.1:8001/king/discovery/TLC.m3u8
 http://127.0.0.1:5001/live/high/479.m3u8
-
-#EXTINF:-1 tvg-id="562" group-title="Lifestyle" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png",Travelxp HD Hindi
-http://127.0.0.1:5001/live/high/562.m3u8
-
-#EXTINF:-1 tvg-id="571" group-title="Lifestyle" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png",TLC Hindi
-http://127.0.0.1:5001/live/high/571.m3u8
 
 #EXTINF:-1 tvg-id="560" group-title="Lifestyle" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Good_Times.png",GOOD TiMES
 http://127.0.0.1:5001/live/high/560.m3u8
@@ -204,15 +192,6 @@ http://127.0.0.1:5001/live/high/1955.m3u8
 
 #EXTINF:-1 tvg-id="2757" group-title="Lifestyle" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Zest_HD.png",Zee Zest HD
 http://127.0.0.1:5001/live/high/2757.m3u8
-
-#EXTINF:-1 tvg-id="242" group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_English.png",Discovery
-http://127.0.0.1:5001/live/high/242.m3u8
-
-#EXTINF:-1 tvg-id="1471" group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_TV18_SD.png",History TV18 SD
-http://127.0.0.1:5001/live/high/1471.m3u8
-
-#EXTINF:-1 tvg-id="2437" group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wild_Earth.png",Wild Earth
-http://127.0.0.1:5001/live/high/2437.m3u8
 
 --------------------------------------------Kids--------------------------------------------
 
