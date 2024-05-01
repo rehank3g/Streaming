@@ -445,7 +445,7 @@ https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720
 https://hls.media.nic.in/hls/live/ddnews/ddnews.m3u8
 
 #EXTINF:-1 tvg-id="501" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png",News 24
-https://fallbackcdn.vidgyor.com/news24-origin/live_360p_fallback/chunks.m3u8
+https://bb4ece8d78fb4e85b0713ee8a3f73e7b.mediatailor.ap-south-1.amazonaws.com/v1/master/8c46099fe45335f63ce7178b3eb4f427ab1d2158/news24-prod-pal/playlist.m3u8
 
 #EXTINF:-1 tvg-id="235" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png",India TV
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
