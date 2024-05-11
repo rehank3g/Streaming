@@ -466,7 +466,7 @@ https://livetv.newsx.com/itv/itvnetwork5/playlist.m3u8
 http://127.0.0.1:8001/king/Jio/app/live.php?id=499&e=.m3u8
 
 #EXTINF:-1 tvg-id="231" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png",News 18 India
-http://127.0.0.1:8001/king/Jio/app/live.php?id=231&e=.m3u8
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_India_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="1403" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_Bharat.png",Republic Bharat
 http://127.0.0.1:8001/king/Jio/app/live.php?id=1403&e=.m3u8
