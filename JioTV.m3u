@@ -482,6 +482,12 @@ https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 
 --------------------------------------------Sports--------------------------------------------
 
+#EXTINF:-1 tvg-id="78" group-title="Sports" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png" ,ENGLISH 4K
+https://prod-ent-live-gm.jiocinema.com/out/v1/044ed31ae2974aadb03b5c5e9a67ab06/master.m3u8
+
+#EXTINF:-1 tvg-id="78" group-title="Sports" tvg-logo="https://v3img.voot.com/v3Storage/assets/ipl_white_logo-1709892654830.png" ,HINDI 4K
+https://prod-ent-live-gm.jiocinema.com/out/v1/81e640e5a2c74eb98201959a31a008a3/master.m3u8
+
 #EXTINF:-1 tvg-id="162" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony TEN 1 HD
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 
