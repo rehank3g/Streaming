@@ -301,7 +301,7 @@ http://127.0.0.1:8001/king/Jio/app/live.php?id=1322&e=.m3u8
 http://127.0.0.1:8001/king/Jio/app/live.php?id=1349&e=.m3u8
 
 #EXTINF:-1 tvg-id="762" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 
 #EXTINF:-1 tvg-id="1450" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",Colors Cineplex Superhit
 http://127.0.0.1:8001/king/Jio/app/live.php?id=1450&e=.m3u8
