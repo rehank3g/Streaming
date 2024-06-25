@@ -147,6 +147,7 @@ http://127.0.0.1:8001/king/portal.php?id=197
 http://127.0.0.1:8001/king/portal.php?id=198
 
 #EXTINF:-1 tvg-id="460" tvg-name="SONY BBC Earth HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png" group-title="Infotainment",SONY BBC Earth HD
+https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 http://127.0.0.1:8001/king/portal.php?id=201
 
 #EXTINF:-1 tvg-id="286" group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png",Animal Planet HD World
