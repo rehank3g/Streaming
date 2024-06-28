@@ -30,7 +30,7 @@ http://127.0.0.1:8001/king/Jio/app/live.php?id=1351&e=.m3u8
 http://127.0.0.1:8001/king/Jio/app/live.php?id=1368&e=.m3u8
 
 #EXTINF:-1 tvg-id="474" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",Sony Pal
-https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
+https://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 
 #EXTINF:-1 tvg-id="202" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png",DD National
 http://127.0.0.1:8001/king/Jio/app/live.php?id=202&e=.m3u8
@@ -224,7 +224,7 @@ http://127.0.0.1:8001/king/Jio/app/live.php?id=815&e=.m3u8
 http://127.0.0.1:8001/king/Jio/app/live.php?id=816&e=.m3u8
 
 #EXTINF:-1 tvg-id="872" group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",Sony Yay Hindi
-https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
+https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 
 #EXTINF:-1 tvg-id="1079" group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png",CN HD+ English
 http://127.0.0.1:8001/king/Jio/app/live.php?id=1079&e=.m3u8
@@ -265,13 +265,13 @@ http://127.0.0.1:8001/king/Jio/app/live.php?id=182&e=.m3u8
 http://127.0.0.1:8001/king/Jio/app/live.php?id=185&e=.m3u8
 
 #EXTINF:-1 tvg-id="289" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png",Sony Max SD
-https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
+https://dai.google.com/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
 
 #EXTINF:-1 tvg-id="415" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png",Zee Anmol Cinema
 http://127.0.0.1:8001/king/Jio/app/live.php?id=415&e=.m3u8
 
 #EXTINF:-1 tvg-id="476" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",Sony Max HD
-https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 
 #EXTINF:-1 tvg-id="483" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",Sony MAX2
 https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
