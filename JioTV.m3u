@@ -452,6 +452,7 @@ https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720
 https://hls.media.nic.in/hls/live/ddnews/ddnews.m3u8
 
 #EXTINF:-1 tvg-id="501" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png",News 24
+http://127.0.0.1:8001/king/Jio/app/live.php?id=501&e=.m3u8
 https://bb4ece8d78fb4e85b0713ee8a3f73e7b.mediatailor.ap-south-1.amazonaws.com/v1/master/8c46099fe45335f63ce7178b3eb4f427ab1d2158/news24-prod-pal/playlist.m3u8
 
 #EXTINF:-1 tvg-id="235" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png",India TV
@@ -467,12 +468,14 @@ https://hls.media.nic.in/live/rstv/index.m3u8
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="498" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_news.png",India news
+http://127.0.0.1:8001/king/Jio/app/live.php?id=498&e=.m3u8
 https://livetv.newsx.com/itv/itvnetwork5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="499" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png",News Nation
 http://127.0.0.1:8001/king/Jio/app/live.php?id=499&e=.m3u8
 
 #EXTINF:-1 tvg-id="231" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png",News 18 India
+http://127.0.0.1:8001/king/Jio/app/live.php?id=231&e=.m3u8
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_India_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="1403" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_Bharat.png",Republic Bharat
