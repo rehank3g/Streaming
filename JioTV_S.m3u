@@ -377,7 +377,7 @@ https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master.m
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="203" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png",DD News
-https://hls.media.nic.in/hls/live/ddnews/ddnews.m3u8
+http://127.0.0.1:8000/y2m.php/live/OjsE734aXyc
 
 #EXTINF:-1 tvg-id="501" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png",News 24
 http://127.0.0.1:8000/jiotv/app/ts_live_501.m3u8
