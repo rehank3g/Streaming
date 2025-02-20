@@ -145,7 +145,7 @@ http://127.0.0.1:8000/jiotv/app/ts_live_560.m3u8
 #EXTINF:-1 tvg-id="561" group-title="Lifestyle" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png",Food Food
 http://127.0.0.1:8000/jiotv/app/ts_live_561.m3u8
 
-#EXTINF:-1 tvg-id="1225" group-title="Lifestyle" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Click_Life.png",Click Life
+EXTINF:-1 tvg-id="1225" group-title="Lifestyle" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Click_Life.png",Click Life
 http://127.0.0.1:8000/jiotv/app/ts_live_1225.m3u8
 
 #EXTINF:-1 tvg-id="1292" group-title="Lifestyle" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wellness_TV.png",Wellness
