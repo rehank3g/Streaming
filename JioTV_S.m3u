@@ -45,7 +45,7 @@ http://127.0.0.1:8000/jiotv/app/ts_live_481.m3u8
 http://127.0.0.1:8000/jiotv/app/ts_live_485.m3u8
 
 #EXTINF:-1 tvg-id="527" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ID.png",Investigation Discovery
-http://127.0.0.1:8000/discovery/Investigation_Discovery.m3u8
+http://127.0.0.1:8000/jiotv/app/ts_live_527.m3u8
 
 #EXTINF:-1 tvg-id="528" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_India.png",DD India
 http://127.0.0.1:8000/jiotv/app/ts_live_528.m3u8
