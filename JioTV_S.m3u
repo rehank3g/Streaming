@@ -86,7 +86,7 @@ http://127.0.0.1:8000/jiotv/app/ts_live_1834.m3u8
 #EXTINF:-1 tvg-id="1961" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_TV.png",Shemaroo TV
 http://127.0.0.1:8000/jiotv/app/ts_live_1961.m3u8
 
-#EXTINF:-1 tvg-id="2024" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV.png",And TV
+EXTINF:-1 tvg-id="2024" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV.png",And TV
 http://127.0.0.1:8000/jiotv/app/ts_live_2024.m3u8
 
 #EXTINF:-1 tvg-id="2040" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bollywood_Hungama.png",Bollywood Hungama
