@@ -186,13 +186,13 @@ https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 #EXTINF:-1 tvg-id="1079" group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png",CN HD+ English
 http://127.0.0.1:8000/jiotv/app/ts_live_1079.m3u8
 
-#EXTINF:-1 tvg-id="1216" group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Highbrow.png",Highbrow
+EXTINF:-1 tvg-id="1216" group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Highbrow.png",Highbrow
 http://127.0.0.1:8000/jiotv/app/ts_live_1216.m3u8
 
 #EXTINF:-1 tvg-id="1226" group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png",Nick HD+
 http://127.0.0.1:8000/jiotv/app/ts_live_1226.m3u8
 
-#EXTINF:-1 tvg-id="1430" group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_KIDS.png",Jio KIDS
+EXTINF:-1 tvg-id="1430" group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_KIDS.png",Jio KIDS
 http://127.0.0.1:8000/jiotv/app/ts_live_1430.m3u8
 
 #EXTINF:-1 tvg-id="1780" group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hoopla_Kids_TV.png",HooplaKidz TV
