@@ -424,8 +424,8 @@ https://hocdn.news/live/star1in.m3u8
 #EXTINF:-1 tvg-id="24" tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="Sports",Star Sports 1 Hindi HD
 https://hocdn.news/live/starhindi.m3u8
 
-EXTINF:-1 tvg-id="235" tvg-name="Star Sports 2 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="Sports",Star Sports 2 HD
-http://127.0.0.1:8000/portal.php?id=366
+#EXTINF:-1 tvg-id="235" tvg-name="Star Sports 2 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="Sports",Star Sports 2 HD
+https://vkvsd63.okcdn.ru/cmaf/7966929783340/sig/UBH2fyLSTmY/expires/1740303331761/srcIp/172.69.179.229/urls/45.136.22.58/clientType/13/srcAg/CHROME/mid/9319446489900/get/hls_9319446489900.OnURj29hmec.m3u8
 
 EXTINF:-1 tvg-id="246" tvg-name="Star Sports Select 1 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="Sports",Star Sports Select 1 HD
 http://127.0.0.1:8000/portal.php?id=801
