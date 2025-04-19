@@ -2,6 +2,9 @@
 
 --------------------------------------------Entertainment--------------------------------------------
 
+#EXTINF:-1 group-title="Activate Playlist" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/refs/heads/master/playlist.png",Activate Playlist 
+http://127.0.0.1:8000/jiotv/creds.php
+
 #EXTINF:-1 tvg-id="167" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
 http://127.0.0.1:8000/zee5/index.php?id=0-9-zeetvhd
 
