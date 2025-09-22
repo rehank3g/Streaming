@@ -378,10 +378,10 @@ http://127.0.0.1:8000/jiotv/app/ts_live_1998.m3u8
 #EXTINF:-1 tvg-id="162" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",Sony TEN 1 HD
 https://la.drmlive.net/tp/sliv-ten1hd.m3u8
 
-#EXTINF:-1 tvg-id="891" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD2.png",Sony  TEN 2 HD
+#EXTINF:-1 tvg-id="891" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png",Sony  TEN 2 HD
 https://la.drmlive.net/tp/sliv-ten2hd.m3u8
 
-#EXTINF:-1 tvg-id="892" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD3.png",Sony TEN 3 HD
+#EXTINF:-1 tvg-id="892" group-title="Sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",Sony TEN 3 HD
 https://la.drmlive.net/tp/sliv-ten3hd.m3u8
 
 #EXTINF: -1 tvg-id="1772" group-title="Sports" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",Sony TEN 4 HD
