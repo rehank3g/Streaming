@@ -12,10 +12,10 @@ http://127.0.0.1:8000/zee5/index.php?id=0-9-zeetvhd
 http://127.0.0.1:8000/jiotv/app/ts_live_144.m3u8
 
 #EXTINF:-1 tvg-id="471" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",Sony SAB HD
-https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+https://la.drmlive.net/tp/sliv-sab.m3u8
 
 #EXTINF:-1 tvg-id="291" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",SET HD
-https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+https://la.drmlive.net/tp/sliv-sony.m3u8
 
 #EXTINF:-1 tvg-id="472" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png",And TV HD
 http://127.0.0.1:8000/zee5/index.php?id=0-9-tvhd_0
@@ -107,7 +107,7 @@ EXTINF:-1 tvg-id="413" tvg-name="Nat Geo Wild HD" tvg-logo="https://ltsk-cdn.s3.
 http://127.0.0.1:8000/portal.php?id=198
 
 #EXTINF:-1 tvg-id="460" tvg-name="SONY BBC Earth HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png" group-title="Infotainment",SONY BBC Earth HD
-https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+https://la.drmlive.net/tp/sliv-bbc.m3u8
 
 #EXTINF:-1 tvg-id="286" group-title="Infotainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png",Animal Planet HD World
 http://127.0.0.1:8000/jiotv/app/ts_live_286.m3u8
@@ -218,17 +218,14 @@ http://127.0.0.1:8000/jiotv/app/ts_live_182.m3u8
 #EXTINF:-1 tvg-id="185" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",And Pictures HD
 http://127.0.0.1:8000/zee5/index.php?id=0-9-tvpictureshd
 
-#EXTINF:-1 tvg-id="289" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png",Sony Max SD
-https://dai.google.com/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
-
 #EXTINF:-1 tvg-id="415" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png",Zee Anmol Cinema
 http://127.0.0.1:8000/zee5/index.php?id=0-9-zeeanmolcinema
 
 #EXTINF:-1 tvg-id="476" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",Sony Max HD
-https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+https://la.drmlive.net/tp/sliv-maxhd.m3u8
 
 #EXTINF:-1 tvg-id="483" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",Sony MAX2
-https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+https://la.drmlive.net/tp/sliv-max2.m3u8
 
 #EXTINF:-1 tvg-id="484" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png",Zee Cinema
 http://127.0.0.1:8000/zee5/index.php?id=0-9-zeecinema
@@ -255,7 +252,7 @@ http://127.0.0.1:8000/zee5/index.php?id=0-9-9z5543514
 http://127.0.0.1:8000/zee5/index.php?id=0-9-209
 
 #EXTINF:-1 tvg-id="762" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
-https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+https://la.drmlive.net/tp/sliv-pix.m3u8
 
 #EXTINF:-1 tvg-id="1450" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",Colors Cineplex Superhit
 http://127.0.0.1:8000/jiotv/app/ts_live_1450.m3u8
