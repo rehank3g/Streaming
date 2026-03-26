@@ -344,7 +344,7 @@ http://127.0.0.1:8000/jiotv/app/live.php?id=554
 #EXTINF:-1 tvg-id="3436" group-title="Kids" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNHDHindi.png",Cartoon Network HD+
 http://127.0.0.1:8000/jiotv/app/live.php?id=3436
 
-#EXTINF:-1 tvg-id="1374" group-title="Kids" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Junior.png",Disney Junior
+EXTINF:-1 tvg-id="1374" group-title="Kids" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Junior.png",Disney Junior
 http://127.0.0.1:8000/jiotv/app/live.php?id=1374
 
 EXTINF:-1 tvg-id="1375" group-title="Kids" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_International_HD.png",Disney International HD
