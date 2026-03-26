@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 
 #EXTINF:-1 tvg-id="291" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",SET HD
-http://localhost:8000/jiotv/app/slplay.php?id=SONY_HD
+http://127.0.0.1:8000/jiotv/app/slplay.php?id=SONY_HD
 
 #EXTINF:-1 tvg-id="471" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySAB.png",SAB HD
-http://localhost:8000/jiotv/app/slplay.php?id=SAB_HD
+http://127.0.0.1:8000/jiotv/app/slplay.php?id=SAB_HD
 
 #EXTINF:-1 tvg-id="167" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
 http://127.0.0.1:8000/jiotv/app/live.php?id=167
@@ -31,7 +31,7 @@ http://127.0.0.1:8000/jiotv/app/live.php?id=3434
 http://127.0.0.1:8000/jiotv/app/live.php?id=279
 
 #EXTINF:-1 tvg-id="474" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyPAL.png",Sony Pal
-http://localhost:8000/jiotv/app/slplay.php?id=SONY_PAL
+http://127.0.0.1:8000/jiotv/app/slplay.php?id=SONY_PAL
 
 EXTINF:-1 tvg-id="473" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png",Zee Anmol
 http://127.0.0.1:8000/jiotv/app/live.php?id=473
@@ -118,7 +118,7 @@ http://127.0.0.1:8000/jiotv/app/live.php?id=165
 http://127.0.0.1:8000/jiotv/app/live.php?id=185
 
 #EXTINF:-1 tvg-id="476" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX.png",Sony MAX HD
-http://localhost:8000/jiotv/app/slplay.php?id=SONY_MAX_HD
+http://127.0.0.1:8000/jiotv/app/slplay.php?id=SONY_MAX_HD
 
 EXTINF:-1 tvg-id="156" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png",Star Gold HD
 http://127.0.0.1:8000/jiotv/app/live.php?id=156
@@ -145,7 +145,7 @@ http://127.0.0.1:8000/jiotv/app/live.php?id=3418
 http://127.0.0.1:8000/jiotv/app/live.php?id=483
 
 #EXTINF:-1 tvg-id="1393" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyWAH.png",Sony Wah
-http://localhost:8000/jiotv/app/slplay.php?id=SONY_WAH
+http://127.0.0.1:8000/jiotv/app/slplay.php?id=SONY_WAH
 
 EXTINF:-1 tvg-id="11691" group-title="Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1755,h_987,c_scale,f_webp,q_auto:eco/resources/0-9-176/list_clean/1920x1080list4195cccd86da4e47b073736ef24366bf.png",Zee Classic
 http://127.0.0.1:8000/jiotv/app/live.php?id=11691
@@ -178,7 +178,7 @@ EXTINF:-1 tvg-id="1110" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn
 http://127.0.0.1:8000/jiotv/app/live.php?id=1110
 
 #EXTINF:-1 tvg-id="762" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyPIX.png",Sony PIX HD
-http://localhost:8000/jiotv/app/slplay.php?id=SONY_PIX_HD
+http://127.0.0.1:8000/jiotv/app/slplay.php?id=SONY_PIX_HD
 
 #EXTINF:-1 tvg-id="151" group-title="Movies" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg",Movies Now HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -378,16 +378,16 @@ EXTINF:-1 tvg-id="301" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.
 http://127.0.0.1:8000/jiotv/app/live.php?id=301
 
 #EXTINF:-1 tvg-id="162" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",Sony Ten 1 HD
-http://localhost:8000/jiotv/app/slplay.php?id=SONY_TEN_1_HD
+http://127.0.0.1:8000/jiotv/app/slplay.php?id=SONY_TEN_1_HD
 
 #EXTINF:-1 tvg-id="891" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png",Sony Ten 2 HD
-http://localhost:8000/jiotv/app/slplay.php?id=SONY_TEN_2_HD
+http://127.0.0.1:8000/jiotv/app/slplay.php?id=SONY_TEN_2_HD
 
 #EXTINF:-1 tvg-id="892" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",Sony Ten 3 HD
-http://localhost:8000/jiotv/app/slplay.php?id=SONY_TEN_3_HD
+http://127.0.0.1:8000/jiotv/app/slplay.php?id=SONY_TEN_3_HD
 
 #EXTINF:-1 tvg-id="155" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",Sony Ten 5 HD
-http://localhost:8000/jiotv/app/slplay.php?id=SONY_TEN_5_HD
+http://127.0.0.1:8000/jiotv/app/slplay.php?id=SONY_TEN_5_HD
 
 #EXTINF:-1 tvg-id="204" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png",DD Sports
 http://127.0.0.1:8000/jiotv/app/live.php?id=204
